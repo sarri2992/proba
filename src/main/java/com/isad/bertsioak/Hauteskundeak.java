@@ -19,15 +19,15 @@ public class Hauteskundeak {
 	}
 
 	public static void main(String[] args) {
-		Hauteskundeak h2012 = new Hauteskundeak();
+		Hauteskundeak h2021 = new Hauteskundeak();
 
-		h2012.gehituMahaia("Irun");
-		h2012.gehituMahaia("Donostia");
-		h2012.gehituMahaia("Tolosa");
-		h2012.gehituMahaia("Bergara");
-		h2012.gehituMahaia("Andoain");
-		
-		System.out.println(h2012);
+		h2021.gehituMahaia("Irun");
+		h2021.gehituMahaia("Donostia");
+		h2021.gehituMahaia("Tolosa");
+		h2021.gehituMahaia("Bergara");
+		h2021.gehituMahaia("Andoain");
+
+		System.out.println(h2021);
 	}
 
 }
